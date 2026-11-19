@@ -1,0 +1,8 @@
+incident_type,entity,indicator,incident_date,description
+brute_force,mpatel,185.220.101.47,2026-10-08,45 failures in 12 minutes then a successful sign-in
+password_spray,multiple,91.240.118.5,2026-10-14,"35 accounts, one failed attempt each, in 25 minutes"
+leaver_sign_in,mmensah,,2026-10-11,successful sign-ins after leave date
+leaver_sign_in,amensah,,2026-10-12,successful sign-ins after leave date
+leaver_sign_in,adavies,,2026-10-09,successful sign-ins after leave date
+impossible_travel,agreen,105.112.44.9,2026-10-21,GB session then NG session 35 minutes later
+beaconing,10.1.7.15,45.133.1.20,2026-10-17,connection to port 4444 every ~60 seconds for 6 hours

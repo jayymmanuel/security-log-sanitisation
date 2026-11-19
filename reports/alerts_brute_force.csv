@@ -1,0 +1,2 @@
+username,src_ip,total_failures,peak_failures_15m,first_failure,last_failure,followed_by_success
+mpatel,185.220.101.47,43,43,2026-10-08 02:14:00+00,2026-10-08 02:25:44+00,t

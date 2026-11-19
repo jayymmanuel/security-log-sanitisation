@@ -1,0 +1,5 @@
+source,raw_rows,duplicates,quarantined,clean_rows,pct_clean,balanced
+hr_directory,248,6,2,240,96.77,t
+auth_events,17006,333,51,16622,97.74,t
+vpn_sessions,800,40,7,753,94.13,t
+firewall_logs,82860,500,3051,79309,95.71,t

@@ -1,0 +1,2 @@
+src_ip,dst_ip,dst_port,connections,first_seen,last_seen,mean_gap_s,gap_variation
+10.1.7.15,45.133.1.20,4444,345,2026-10-17 09:00:01+00,2026-10-17 14:58:01+00,62.4,0.193

@@ -1,0 +1,249 @@
+employee_id,full_name,email,department,employment_status,leave_date
+E1147,Daniel Murphy, dmurphy@northbridge.co.uk,Sales,TERMINATED,02/09/2026
+E1015,Isla Lewis,ILEWIS@NORTHBRIDGE.CO.UK,TRANSPORT, Active ,
+E1114,Amelia Robinson,AROBINSON@NORTHBRIDGE.CO.UK, Finance ,active,
+E1023,Ravi White,rwhite@northbridge.co.uk,customer service,Inactive,2026-09-25
+E1073,Aisha Mensah,amensah@northbridge.co.uk,FINANCE,leaver,12/10/2026
+,Contractor Temp,temp01@northbridge.co.uk,Warehouse,Active,
+E1054,Hannah Johnson,HJOHNSON@NORTHBRIDGE.CO.UK, Finance ,Current,-
+E1163,Zara Lewis,ZLEWIS@NORTHBRIDGE.CO.UK,OPERATIONS,ACTIVE,
+E1229,George Evans,gevans2@northbridge.co.uk,finance,Active,N/A
+E1004,Leo Mensah,lmensah@northbridge.co.uk,transport,Current,
+E1071,Harry Wright, hwright@northbridge.co.uk,it , Active ,
+E1165,Aisha Davies, adavies3@northbridge.co.uk,transport,Active,N/A
+E1120,Thomas Thomas,tthomas@northbridge.co.uk,Transport, Active ,N/A
+E1201,Ella Martin,emartin3@northbridge.co.uk,FINANCE,Active,
+E1008,Sofia Hall,shall@northbridge.co.uk,I.T.,ACTIVE,
+E1088,Harry Khan, hkhan@northbridge.co.uk, Sales ,Active,N/A
+E1103,Samuel Clarke,sclarke2@northbridge.co.uk,IT,Active,-
+E1128,Lewis Davies,ldavies@northbridge.co.uk,warehouse,Active,
+E1049,Samuel Brown,sbrown@northbridge.co.uk, Operations , Active ,
+E1077,Freya Wilson,fwilson@northbridge.co.uk,Warehouse,Active,
+E1024,Emily Martin,EMARTIN@NORTHBRIDGE.CO.UK,Transport,Active,
+E1106,Arthur Thomas, athomas@northbridge.co.uk,it ,Current,
+E1134,Noah Smith,nsmith@northbridge.co.uk,transport, Active ,
+E1066,Daniel Roberts,droberts@northbridge.co.uk,human resources,ACTIVE,N/A
+E1214,Tariq Taylor, ttaylor@northbridge.co.uk,Transport,active,-
+E1220,Lewis Walker, lwalker@northbridge.co.uk, Warehouse ,ACTIVE,-
+E1116,Ruby Hughes,rhughes@northbridge.co.uk,SALES,Active,
+E1129,Mia Clarke, mclarke@northbridge.co.uk,SALES,active,N/A
+E1013,Emily Jones,EJONES@NORTHBRIDGE.CO.UK, Sales ,Inactive,07 Oct 2026
+E1213,Leo Martin,lmartin@northbridge.co.uk,SALES,ACTIVE,
+E1115,Zara Ali,zali@northbridge.co.uk,I.T.,Active,
+E1227,Isla Wright,iwright@northbridge.co.uk,IT, Active ,
+E1113,James Thompson,jthompson@northbridge.co.uk,Transport,active,N/A
+E1064,Ella Mensah,EMENSAH@NORTHBRIDGE.CO.UK,Warehouse,Current,-
+E1176,Isla Walker,IWALKER@NORTHBRIDGE.CO.UK,operations,Current,
+E1072,James Taylor,jtaylor@northbridge.co.uk, Transport ,active,
+E1236,Harry Thomas,HTHOMAS2@NORTHBRIDGE.CO.UK,it ,Current,
+E1210,Sophia Williams, swilliams@northbridge.co.uk,Finance,active,N/A
+E1016,Ava Okafor,aokafor@northbridge.co.uk, Transport ,ACTIVE,
+E1078,Arthur Davies, adavies@northbridge.co.uk,Customer Service,TERMINATED,09/10/2026
+E1110,Isla Roberts,IROBERTS@NORTHBRIDGE.CO.UK, Operations ,Active,
+E1135,Ella Khan,ekhan@northbridge.co.uk,finance,active,
+E1230,Grace Okafor,gokafor2@northbridge.co.uk,I.T.,ACTIVE,
+E1169,James Hughes, jhughes@northbridge.co.uk,HR,Active,N/A
+E1141,Lily Wilson,lwilson2@northbridge.co.uk,warehouse,ACTIVE,
+E1193,Oliver Martin,omartin2@northbridge.co.uk,HR, Active ,
+E1026,Oscar Hughes,ohughes@northbridge.co.uk, Operations ,active,
+E1124,Jack Davies,JDAVIES@NORTHBRIDGE.CO.UK,OPERATIONS,active,-
+E1139,Chloe Brown,CBROWN@NORTHBRIDGE.CO.UK,Sales,ACTIVE,
+E1195,Sofia Hall,SHALL2@NORTHBRIDGE.CO.UK, Sales ,Active,
+E1158,Aisha Evans,aevans@northbridge.co.uk,Sales,ACTIVE,N/A
+E1062,Megan Wilson,MWILSON@NORTHBRIDGE.CO.UK, Finance ,Current,
+E1160,Mia Hughes, mhughes2@northbridge.co.uk,it ,Active,
+E1190,Noah Ali,nali2@northbridge.co.uk,H.R.,Current,
+E1025,Zara Okafor,ZOKAFOR@NORTHBRIDGE.CO.UK,I.T.,Active,
+E1174,Olivia Wright,owright@northbridge.co.uk,TRANSPORT,active,-
+E1039,James Shah,jshah@northbridge.co.uk, Warehouse ,Current,N/A
+E1069,Priya Cooper,PCOOPER@NORTHBRIDGE.CO.UK,transport,active,N/A
+E1068,Oscar Murphy,OMURPHY2@NORTHBRIDGE.CO.UK,finance,ACTIVE,
+E1075,Daniel Wright, dwright@northbridge.co.uk,WAREHOUSE,ACTIVE,-
+E1111,Lewis White, lwhite2@northbridge.co.uk, Sales ,Active,-
+E1155,Daniel Mensah, dmensah@northbridge.co.uk,customer service,ACTIVE,N/A
+E1172,James Patel,JPATEL@NORTHBRIDGE.CO.UK,IT,Active,
+E1215,Thomas Thomas,tthomas2@northbridge.co.uk,SALES, Active ,-
+E1224,George Okafor,gokafor@northbridge.co.uk,Customer Services,active,
+E1085,Arthur Mensah,amensah2@northbridge.co.uk,OPERATIONS,ACTIVE,N/A
+E1148,Isla Brown,IBROWN@NORTHBRIDGE.CO.UK,WAREHOUSE,Current,
+E1144,Emily Evans, eevans2@northbridge.co.uk,Sales,active,
+E1180,Thomas Cooper,tcooper3@northbridge.co.uk,finance,Active,
+E1219,Aisha Jones, ajones@northbridge.co.uk,FINANCE,active,
+E1207,Freya Green,fgreen@northbridge.co.uk,Finance,Active,
+E1123,Emily Ali, eali@northbridge.co.uk,HR,Active,N/A
+E1183,Ruby Martin,RMARTIN@NORTHBRIDGE.CO.UK,IT,Current,
+E1080,Daniel Roberts,DROBERTS2@NORTHBRIDGE.CO.UK,warehouse,Active,
+E1228,Ava Taylor,ATAYLOR2@NORTHBRIDGE.CO.UK,SALES,Current,
+E1150,Leo Johnson,ljohnson@northbridge.co.uk,SALES, Active ,
+E1212,Tariq Jones,tjones@northbridge.co.uk,HR,Active,N/A
+E1003,Ava Hall,AHALL@NORTHBRIDGE.CO.UK,Warehouse,Active,
+E1200,Hannah Thompson,hthompson@northbridge.co.uk,Information Technology,Active,
+E1204,Chloe Lewis,CLEWIS@NORTHBRIDGE.CO.UK,I.T.,ACTIVE,
+E1171,Ravi Kelly, rkelly@northbridge.co.uk,sales,active,
+E1127,Tariq Cooper, tcooper@northbridge.co.uk, Finance ,Current,
+E1157,Jack Okafor,JOKAFOR@NORTHBRIDGE.CO.UK,H.R.,ACTIVE,-
+E1099,George Evans,GEVANS@NORTHBRIDGE.CO.UK, Warehouse ,active,N/A
+E1029,Noah White, nwhite@northbridge.co.uk,Transport,Active,
+E1012,Oscar Murphy,omurphy@northbridge.co.uk,finance,leaver,07 Sep 2026
+E1060,Noah Kelly,nkelly@northbridge.co.uk,operations,Current,-
+E1156,Grace Thomas,gthomas@northbridge.co.uk,transport,active,
+E1130,Ruby White,rwhite2@northbridge.co.uk,HR,active,
+E1239,Isla Murphy,imurphy@northbridge.co.uk,Transport,Inactive,01 Oct 2026
+E1225,Hannah Ali, hali@northbridge.co.uk,it ,Active,-
+E1233,Zara Smith,zsmith@northbridge.co.uk,transport,Active,N/A
+E1098,Ruby Williams,rwilliams@northbridge.co.uk, Warehouse ,active,
+E1189,Chloe White,cwhite@northbridge.co.uk,Transport,Active,
+E1109,Arthur Hall,ahall2@northbridge.co.uk,finance,ACTIVE,
+E1121,James Khan,jkhan2@northbridge.co.uk,Customer Service,ACTIVE,-
+E1063,Sophia Clarke,SCLARKE@NORTHBRIDGE.CO.UK,human resources,Active,
+E1081,Lewis Hall,lhall@northbridge.co.uk,H.R.,Current,
+E1079,George Davies,GDAVIES@NORTHBRIDGE.CO.UK,Operations,ACTIVE,
+E1021,Ravi Thomas,rthomas@northbridge.co.uk, Transport , Active ,
+E1164,Ruby Wood,rwood@northbridge.co.uk,Customer Service,Current,-
+E1226,Emily Shah,eshah@northbridge.co.uk,Transport,Current,-
+E1216,Mia Martin,mmartin@northbridge.co.uk,operations,ACTIVE,
+E1145,Ravi Harris,RHARRIS@NORTHBRIDGE.CO.UK, Warehouse ,ACTIVE,
+E1133,Daniel Wilson, dwilson@northbridge.co.uk,Customer Service,Active,
+E1197,Ruby Roberts, rroberts@northbridge.co.uk,human resources,Current,-
+E1132,Oscar Edwards, oedwards2@northbridge.co.uk,human resources,Active,
+E1018,Thomas Kelly,tkelly@northbridge.co.uk,OPERATIONS,Active,
+E1232,Freya Edwards,fedwards2@northbridge.co.uk, Sales ,Active,
+E1175,Lewis Hughes, lhughes@northbridge.co.uk, Sales ,ACTIVE,
+E1191,Lewis Lewis,llewis@northbridge.co.uk,Human Resources,ACTIVE,
+E1118,Hannah Murphy,hmurphy@northbridge.co.uk,transport,leaver,05/10/2026
+E1042,Mia Smith, msmith@northbridge.co.uk,SALES,active,-
+E1089,Hannah Patel, hpatel@northbridge.co.uk,Customer Services,Current,
+E1234,Megan Murphy,mmurphy@northbridge.co.uk,Human Resources,Active,
+E1173,Ava Hughes,ahughes@northbridge.co.uk,Sales,ACTIVE,
+E1108,Tariq Kelly,TKELLY2@NORTHBRIDGE.CO.UK,customer service,ACTIVE,
+E1037,Noah Mensah,NMENSAH@NORTHBRIDGE.CO.UK,FINANCE,ACTIVE,-
+E1159,Freya Shah,fshah@northbridge.co.uk,Human Resources,ACTIVE,
+E1117,Noah Ali,NALI@NORTHBRIDGE.CO.UK, Sales ,Active,-
+E1040,Noah Thompson,NTHOMPSON@NORTHBRIDGE.CO.UK,warehouse,Active,-
+E1047,Samuel Thomas,sthomas@northbridge.co.uk,IT,Active,
+E1002,Adam Green,agreen@northbridge.co.uk, Sales ,Active,
+E1092,Lewis White,lwhite@northbridge.co.uk,Customer Services,Active,
+E1170,Jack Wood, jwood@northbridge.co.uk,Customer Services,Active,-
+  ,Agency Picker,agency.picker@northbridge.co.uk,warehouse,active,
+E1051,Olivia Martin, omartin@northbridge.co.uk,Transport,Active,
+E1209,Jack Murphy,jmurphy@northbridge.co.uk,FINANCE, Active ,N/A
+E1119,Emily Walker, ewalker@northbridge.co.uk,FINANCE,Active,
+E1237,Daniel Murphy, dmurphy2@northbridge.co.uk,customer service,Active,N/A
+E1235,Daniel Harris,dharris@northbridge.co.uk,finance,Active,N/A
+E1097,Olivia Wood,OWOOD@NORTHBRIDGE.CO.UK,I.T.,Current,-
+E1178,Leo Murphy,lmurphy@northbridge.co.uk,it , Active ,-
+E1045,Isla Mensah, imensah@northbridge.co.uk,Finance,Active,N/A
+E1048,Samuel Smith,SSMITH@NORTHBRIDGE.CO.UK,WAREHOUSE,ACTIVE,
+E1138,Olivia Evans,oevans@northbridge.co.uk,OPERATIONS,leaver,10/10/2026
+E1240,Daniel Cooper,dcooper@northbridge.co.uk,WAREHOUSE,Active,
+E1034,Kwame Roberts,kroberts@northbridge.co.uk,Customer Services,Active,
+E1096,Emily Mensah,emensah2@northbridge.co.uk,sales,active,N/A
+E1059,Tariq Williams,twilliams@northbridge.co.uk,Transport,Active,N/A
+E1222,George Thompson,gthompson@northbridge.co.uk,Information Technology, Active ,
+E1103,Samuel Clarke,sclarke2@northbridge.co.uk,IT,Active,-
+E1152,Priya Harris,PHARRIS2@NORTHBRIDGE.CO.UK,Customer Service,active,N/A
+E1151,Ella Martin,emartin2@northbridge.co.uk,sales,Active,
+E1035,Ravi Brown,RBROWN@NORTHBRIDGE.CO.UK,Human Resources,Current,
+E1136,Megan Jones,MJONES@NORTHBRIDGE.CO.UK,Finance, Active ,
+E1182,Thomas Patel,TPATEL@NORTHBRIDGE.CO.UK,FINANCE,active,-
+E1146,Ruby Cooper,rcooper@northbridge.co.uk,Information Technology,Active,
+E1187,Arthur Patel,apatel@northbridge.co.uk, Transport ,Active,-
+E1074,Olivia Khan,okhan@northbridge.co.uk, Finance , Active ,N/A
+E1117,Noah Ali,NALI@NORTHBRIDGE.CO.UK, Sales ,Active,-
+E1131,Mohammed Walker,MWALKER@NORTHBRIDGE.CO.UK,Finance,Active,
+E1030,Hannah Martin,hmartin@northbridge.co.uk, Transport ,ACTIVE,-
+E1179,George Green, ggreen@northbridge.co.uk,warehouse,ACTIVE,
+E1238,Amelia Hall, ahall3@northbridge.co.uk,Human Resources,Current,-
+E1036,Sofia Ali,sali@northbridge.co.uk, Warehouse ,Current,
+E1137,Priya Thomas,pthomas@northbridge.co.uk, Finance , Active ,
+E1198,Megan Cooper,mcooper@northbridge.co.uk,Customer Services,Current,N/A
+E1022,Leo Evans,LEVANS@NORTHBRIDGE.CO.UK, Transport , Active ,
+E1218,Harry Khan,HKHAN2@NORTHBRIDGE.CO.UK,H.R.,Active,N/A
+E1095,Aisha Edwards,aedwards@northbridge.co.uk,warehouse,Active,N/A
+E1167,Ella Khan,EKHAN2@NORTHBRIDGE.CO.UK,SALES,active,N/A
+E1202,Lewis Wright,lwright@northbridge.co.uk,Human Resources,Active,
+E1091,Ella Evans,eevans@northbridge.co.uk,sales,Current,-
+E1136,Megan Jones,MJONES@NORTHBRIDGE.CO.UK,Finance, Active ,
+E1041,Mohammed Hughes,mhughes@northbridge.co.uk,sales,Active,
+E1001,Meera Patel,mpatel@northbridge.co.uk,finance,Active,
+E1090,Priya Wright,pwright@northbridge.co.uk, Transport ,Active,N/A
+E1046,Jack Green,jgreen@northbridge.co.uk,customer service, Active ,N/A
+E1038,Kwame Smith,ksmith@northbridge.co.uk,WAREHOUSE,Active,N/A
+E1007,Harry Shah,HSHAH@NORTHBRIDGE.CO.UK, Operations ,Active,N/A
+E1161,Aisha Thomas,athomas2@northbridge.co.uk,warehouse,Active,
+E1211,Mia Mensah,mmensah@northbridge.co.uk,TRANSPORT,leaver,11/10/2026
+E1011,Aisha Taylor, ataylor@northbridge.co.uk,Human Resources, Active ,N/A
+E1020,Megan Davies,MDAVIES@NORTHBRIDGE.CO.UK,Customer Service,Leaver,30/09/2026
+E1100,Mohammed Wilson,MWILSON2@NORTHBRIDGE.CO.UK,SALES,Current,-
+E1028,Megan Harris,MHARRIS@NORTHBRIDGE.CO.UK,SALES, Active ,N/A
+E1056,Aisha Murphy,amurphy@northbridge.co.uk,IT, Active ,-
+E1065,Samuel Green,sgreen@northbridge.co.uk,finance,Active,N/A
+E1084,Oliver Smith,osmith@northbridge.co.uk,Customer Service,Active,
+E1027,Mohammed Thomas,mthomas@northbridge.co.uk,TRANSPORT,ACTIVE,
+E1005,Kwame Thompson,KTHOMPSON@NORTHBRIDGE.CO.UK, Operations ,Active,
+E1016,Ava Okafor,aokafor@northbridge.co.uk, Transport ,ACTIVE,
+E1105,Sophia Jones,SJONES@NORTHBRIDGE.CO.UK,Customer Services,Current,N/A
+E1168,Amelia Lewis,ALEWIS@NORTHBRIDGE.CO.UK, Finance ,ACTIVE,-
+E1143,Oliver Clarke,OCLARKE@NORTHBRIDGE.CO.UK,HR,Current,
+E1153,Priya Roberts, proberts@northbridge.co.uk,Information Technology, Active ,-
+E1010,Daniel Clarke, dclarke@northbridge.co.uk,Warehouse,ACTIVE,
+E1194,Ravi Taylor, rtaylor@northbridge.co.uk,SALES,Active,
+E1142,Priya Harris,pharris@northbridge.co.uk,warehouse, Active ,
+E1087,Olivia Green,ogreen@northbridge.co.uk, Warehouse ,ACTIVE,
+E1107,Olivia Jones,OJONES@NORTHBRIDGE.CO.UK,human resources,Current,N/A
+E1203,Sofia Wilson,swilson2@northbridge.co.uk,SALES,Active,
+E1094,Ella Jones,EJONES2@NORTHBRIDGE.CO.UK,H.R.,ACTIVE,
+E1162,Freya Edwards, fedwards@northbridge.co.uk,TRANSPORT,Current,
+E1061,Jack Cooper, jcooper@northbridge.co.uk,I.T., Active ,-
+E1058,Noah Roberts, nroberts@northbridge.co.uk,OPERATIONS,Current,
+E1070,Kwame Evans,kevans@northbridge.co.uk,Human Resources,ACTIVE,-
+E1205,Mia Thomas, mthomas2@northbridge.co.uk,Finance,ACTIVE,N/A
+E1044,Ravi Wilson,rwilson@northbridge.co.uk,Human Resources,active,
+E1032,Priya Murphy,pmurphy@northbridge.co.uk,WAREHOUSE,Active,
+E1166,Tariq Cooper,tcooper2@northbridge.co.uk,I.T.,Current,-
+E1208,Jack Hughes, jhughes2@northbridge.co.uk, Sales ,Active,-
+E1122,Mohammed Roberts,mroberts@northbridge.co.uk,warehouse,ACTIVE,
+E1089,Hannah Patel, hpatel@northbridge.co.uk,Customer Services,Current,
+E1184,Ravi Wood,rwood2@northbridge.co.uk,sales,ACTIVE,
+E1186,Arthur Harris,AHARRIS@NORTHBRIDGE.CO.UK,sales,ACTIVE,
+E1019,Leo Wilson,lwilson@northbridge.co.uk,operations,active,
+E1125,Tariq Wright,twright@northbridge.co.uk,human resources,Current,
+E1185,Daniel Hall, dhall@northbridge.co.uk,Transport, Active ,
+E1050,Daniel Khan,dkhan@northbridge.co.uk, Operations ,Current,
+E1112,Megan Hall,mhall@northbridge.co.uk,operations, Active ,-
+E1217,Ravi Smith, rsmith@northbridge.co.uk, Operations ,active,
+E1206,Jack Williams,jwilliams@northbridge.co.uk,operations,active,
+E1181,Harry Jones,hjones@northbridge.co.uk,HR,active,-
+E1188,Jack Jones,JJONES@NORTHBRIDGE.CO.UK, Transport , Active ,
+E1014,Chloe Murphy,cmurphy@northbridge.co.uk,customer service,Active,-
+E1031,Ella Patel,epatel@northbridge.co.uk,human resources,Current,-
+E1093,Oscar Khan,okhan2@northbridge.co.uk,Operations,Active,-
+E1192,Grace Williams,gwilliams@northbridge.co.uk,customer service,Active,N/A
+E1052,Priya Green,PGREEN@NORTHBRIDGE.CO.UK, Transport ,Active,N/A
+E1017,Zara Cooper,zcooper@northbridge.co.uk,human resources,ACTIVE,
+E1009,Zara White,zwhite@northbridge.co.uk, Sales , Active ,N/A
+E1083,George White,gwhite@northbridge.co.uk,human resources,active,-
+E1221,Ella Okafor,eokafor@northbridge.co.uk,Information Technology, Active ,N/A
+E1082,Oliver Edwards, oedwards@northbridge.co.uk, Sales ,Active,
+E1223,Sofia Wright,swright@northbridge.co.uk,sales,Active,N/A
+E1102,Jack Khan,JKHAN@NORTHBRIDGE.CO.UK,Customer Services,active,
+E1199,Harry Wright,hwright2@northbridge.co.uk,Operations,active,N/A
+E1076,Freya Wright,fwright@northbridge.co.uk,H.R.,Active,-
+E1126,Mohammed Lewis,mlewis@northbridge.co.uk,Customer Services, Active ,N/A
+E1011,Aisha Taylor, ataylor@northbridge.co.uk,Human Resources, Active ,N/A
+E1057,Oliver Lewis,olewis@northbridge.co.uk,OPERATIONS,Active,
+E1067,Hannah Harris,hharris@northbridge.co.uk,customer service,active,
+E1053,Priya Evans,PEVANS@NORTHBRIDGE.CO.UK, Transport ,ACTIVE,
+E1086,Amelia Davies,adavies2@northbridge.co.uk,it ,Active,
+E1231,Ella Jones,EJONES4@NORTHBRIDGE.CO.UK,Finance,ACTIVE,
+E1154,Hannah Robinson,hrobinson@northbridge.co.uk,Sales,Terminated,12-10-2026
+E1101,Emily Jones, ejones3@northbridge.co.uk,Customer Service,active,-
+E1149,Sofia Green,sgreen2@northbridge.co.uk,H.R.,ACTIVE,
+E1177,Harry Thomas,hthomas@northbridge.co.uk,sales,ACTIVE,
+E1196,Chloe Roberts,croberts@northbridge.co.uk,warehouse, Active ,-
+E1104,Thomas Robinson,TROBINSON@NORTHBRIDGE.CO.UK,finance,Current,
+E1140,Emily Wright, ewright@northbridge.co.uk,finance,Active,
+E1055,Megan Wright, mwright@northbridge.co.uk,Customer Services,active,
+E1033,Kwame Martin,kmartin@northbridge.co.uk,H.R.,ACTIVE,
+E1043,Sofia Wilson,swilson@northbridge.co.uk,Information Technology,Current,-
+E1006,Isla Evans, ievans@northbridge.co.uk,HR,ACTIVE,

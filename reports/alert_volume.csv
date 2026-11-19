@@ -1,0 +1,7 @@
+detection,raw_alerts,clean_alerts
+brute_force,0,1
+password_spray,0,1
+leaver_sign_ins,0,3
+impossible_travel,1,1
+multi_country_users,78,6
+beaconing,0,1

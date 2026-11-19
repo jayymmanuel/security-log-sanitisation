@@ -1,0 +1,8 @@
+incident_type,entity,indicator,incident_date,found_on_raw_data,found_on_clean_data
+brute_force,mpatel,185.220.101.47,2026-10-08,f,t
+password_spray,multiple,91.240.118.5,2026-10-14,f,t
+leaver_sign_in,mmensah,,2026-10-11,f,t
+leaver_sign_in,amensah,,2026-10-12,f,t
+leaver_sign_in,adavies,,2026-10-09,f,t
+impossible_travel,agreen,105.112.44.9,2026-10-21,t,t
+beaconing,10.1.7.15,45.133.1.20,2026-10-17,f,t

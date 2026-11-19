@@ -1,0 +1,11 @@
+source,field,raw_distinct,clean_distinct,variants_removed
+auth_events,username,1954,242,1712
+auth_events,result,11,2,9
+auth_events,source_system,9,3,6
+auth_events,src_ip,7569,6574,995
+auth_events,logon_type,9,5,4
+hr_directory,department,31,8,23
+hr_directory,employment_status,10,2,8
+vpn_sessions,country,15,6,9
+firewall_logs,dst_port,39,9,30
+firewall_logs,action,10,2,8

@@ -1,0 +1,4 @@
+username,employee_id,full_name,leave_date,sign_ins_after_leaving,first_after,last_after
+adavies,E1078,Arthur Davies,2026-10-09,2,2026-10-18 20:25:01+00,2026-10-21 19:08:19+00
+amensah,E1073,Aisha Mensah,2026-10-12,4,2026-10-18 20:03:53+00,2026-10-27 21:58:04+00
+mmensah,E1211,Mia Mensah,2026-10-11,4,2026-10-18 22:53:10.27154+00,2026-10-27 19:18:46+00

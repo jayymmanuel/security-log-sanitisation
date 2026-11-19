@@ -1,0 +1,32 @@
+name: SQL pipeline and data-quality tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: seclogs
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      PGHOST: localhost
+      PGUSER: postgres
+      PGPASSWORD: postgres
+      PGDATABASE: seclogs
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run pipeline, tests and scorecard
+        run: psql -v ON_ERROR_STOP=1 -f sql/run_all.sql

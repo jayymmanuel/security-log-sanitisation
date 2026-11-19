@@ -1,0 +1,11 @@
+-- 12. Export results to reports/ as CSV, so they can be read on GitHub without running anything.
+\copy (SELECT * FROM audit.reconciliation) TO 'reports/reconciliation.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT source, reason, row_count, example::text FROM audit.quarantine_summary ORDER BY source, row_count DESC) TO 'reports/quarantine_summary.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT *, raw_distinct - clean_distinct AS variants_removed FROM audit.distinct_values) TO 'reports/distinct_values_before_after.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM detect.scorecard) TO 'reports/detection_scorecard.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM detect.alert_volume) TO 'reports/alert_volume.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM detect.brute_force) TO 'reports/alerts_brute_force.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM detect.password_spray) TO 'reports/alerts_password_spray.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM detect.leaver_sign_ins) TO 'reports/alerts_leaver_sign_ins.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM detect.impossible_travel) TO 'reports/alerts_impossible_travel.csv' WITH (FORMAT csv, HEADER true)
+\copy (SELECT * FROM detect.beaconing) TO 'reports/alerts_beaconing.csv' WITH (FORMAT csv, HEADER true)
